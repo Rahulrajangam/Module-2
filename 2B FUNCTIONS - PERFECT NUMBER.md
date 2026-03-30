@@ -28,8 +28,8 @@ To create a Python program using a function to check whether a given number is a
 
 ### PROGRAM
 ```
-#Reg.No:212223060200
-#Name:Pradeep M
+#Reg.No:212222060188
+#Name:Rahul R
 #Add your Code Here
 
 def strong(num):
