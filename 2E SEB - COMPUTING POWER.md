@@ -22,8 +22,8 @@ To write a Python program to compute the power of a given number using an approp
 ### PROGRAM
 
 ```
-# Reg.No-212223060200
-# Name-Pradeep M
+# Reg.No-212222060188
+# Name-Rahul R
 
 num = int(input())
 sum = 0
